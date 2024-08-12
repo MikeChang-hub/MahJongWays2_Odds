@@ -119,6 +119,7 @@ body,div {
 /* 对于Firefox */
 body,div {
   scrollbar-width: none; /* 隐藏滚动条 */
+  font-family: PingFang SC, Microsoft YaHei, WenQuanYi Micro Hei, sans-serif;
 }
 body,
 p,

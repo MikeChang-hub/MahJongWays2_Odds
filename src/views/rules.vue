@@ -30,7 +30,7 @@
                 <div
                   class="rules-title"
                   style="
-                    font-size: 18px;
+                    font-size: 16px;
                     line-height: 145%;
                     padding: 0px 20px 8px;
                     color: rgb(255, 255, 255);
@@ -42,7 +42,7 @@
                 <div
                   class="rules-text-container"
                   style="
-                    font-size: 15px;
+                    font-size: 13px;
                     height: auto;
                     display: flex;
                     flex-direction: row;
@@ -73,7 +73,7 @@
                 <div
                   class="rules-text-container"
                   style="
-                    font-size: 15px;
+                    font-size: 13px;
                     height: auto;
                     display: flex;
                     flex-direction: row;
@@ -104,7 +104,7 @@
                 <div
                   class="rules-text-container"
                   style="
-                    font-size: 15px;
+                    font-size: 13px;
                     height: auto;
                     display: flex;
                     flex-direction: row;
@@ -133,7 +133,7 @@
                 <div
                   class="rules-text-container"
                   style="
-                    font-size: 15px;
+                    font-size: 13px;
                     height: auto;
                     display: flex;
                     flex-direction: row;
@@ -162,7 +162,7 @@
                 <div
                   class="rules-text-container"
                   style="
-                    font-size: 15px;
+                    font-size: 13px;
                     height: auto;
                     display: flex;
                     flex-direction: row;
@@ -191,7 +191,7 @@
                 <div
                   class="rules-text-container"
                   style="
-                    font-size: 15px;
+                    font-size: 13px;
                     height: auto;
                     display: flex;
                     flex-direction: row;
@@ -220,7 +220,7 @@
                 <div
                   class="rules-text-container"
                   style="
-                    font-size: 15px;
+                    font-size: 13px;
                     height: auto;
                     display: flex;
                     flex-direction: row;
@@ -251,7 +251,7 @@
                 <div
                   class="rules-text-container"
                   style="
-                    font-size: 15px;
+                    font-size: 13px;
                     height: auto;
                     display: flex;
                     flex-direction: row;
@@ -280,7 +280,7 @@
                 <div
                   class="rules-text-container"
                   style="
-                    font-size: 15px;
+                    font-size: 13px;
                     height: auto;
                     display: flex;
                     flex-direction: row;
@@ -311,7 +311,7 @@
                 <div
                   class="rules-text-container"
                   style="
-                    font-size: 15px;
+                    font-size: 13px;
                     height: auto;
                     display: flex;
                     flex-direction: row;
@@ -342,7 +342,7 @@
                 <div
                   class="rules-text-container"
                   style="
-                    font-size: 15px;
+                    font-size: 13px;
                     height: auto;
                     display: flex;
                     flex-direction: row;
@@ -373,7 +373,7 @@
                 <div
                   class="rules-text-container"
                   style="
-                    font-size: 15px;
+                    font-size: 13px;
                     height: auto;
                     display: flex;
                     flex-direction: row;
@@ -404,7 +404,7 @@
                 <div
                   class="rules-text-container"
                   style="
-                    font-size: 15px;
+                    font-size: 13px;
                     height: auto;
                     display: flex;
                     flex-direction: row;
@@ -433,7 +433,7 @@
                 <div
                   class="rules-text-container"
                   style="
-                    font-size: 15px;
+                    font-size: 13px;
                     height: auto;
                     display: flex;
                     flex-direction: row;
@@ -464,7 +464,7 @@
                 <div
                   class="rules-text-container"
                   style="
-                    font-size: 15px;
+                    font-size: 13px;
                     height: auto;
                     display: flex;
                     flex-direction: row;
@@ -495,7 +495,7 @@
                 <div
                   class="rules-text-container"
                   style="
-                    font-size: 15px;
+                    font-size: 13px;
                     height: auto;
                     display: flex;
                     flex-direction: row;
@@ -524,7 +524,7 @@
                 <div
                   class="rules-text-container"
                   style="
-                    font-size: 15px;
+                    font-size: 13px;
                     height: auto;
                     display: flex;
                     flex-direction: row;
@@ -553,7 +553,7 @@
                 <div
                   class="rules-text-container"
                   style="
-                    font-size: 15px;
+                    font-size: 13px;
                     height: auto;
                     display: flex;
                     flex-direction: row;
@@ -582,7 +582,7 @@
                 <div
                   class="rules-text-container"
                   style="
-                    font-size: 15px;
+                    font-size: 13px;
                     height: auto;
                     display: flex;
                     flex-direction: row;
@@ -623,10 +623,11 @@
                 <div
                   class="rules-title"
                   style="
-                    font-size: 15px;
+                    font-size: 16px;
                     line-height: 145%;
                     padding: 0px 20px 8px;
                     color: rgb(255, 255, 255);
+                    text-align: center;
                   "
                 >
                   {{ $t('text51') }}
@@ -634,7 +635,7 @@
                 <div
                   class="rules-text-container"
                   style="
-                    font-size: 14px;
+                    font-size: 13px;
                     height: auto;
                     display: flex;
                     flex-direction: row;
@@ -665,7 +666,7 @@
                 <div
                   class="rules-text-container"
                   style="
-                    font-size: 15px;
+                    font-size: 13px;
                     height: auto;
                     display: flex;
                     flex-direction: row;
@@ -706,10 +707,11 @@
                 <div
                   class="rules-title"
                   style="
-                    font-size: 15px;
+                    font-size: 16px;
                     line-height: 145%;
                     padding: 0px 20px 8px;
                     color: rgb(255, 255, 255);
+                    text-align: center;
                   "
                 >
                   {{ $t('text54') }}
@@ -717,7 +719,7 @@
                 <div
                   class="rules-text-container"
                   style="
-                    font-size: 15px;
+                    font-size: 13px;
                     height: auto;
                     display: flex;
                     flex-direction: row;
@@ -748,7 +750,7 @@
                 <div
                   class="rules-text-container"
                   style="
-                    font-size: 15px;
+                    font-size: 13px;
                     height: auto;
                     display: flex;
                     flex-direction: row;
@@ -779,7 +781,7 @@
                 <div
                   class="rules-text-container"
                   style="
-                    font-size: 15px;
+                    font-size: 13px;
                     height: auto;
                     display: flex;
                     flex-direction: row;
@@ -810,7 +812,7 @@
                 <div
                   class="rules-text-container"
                   style="
-                    font-size: 15px;
+                    font-size: 13px;
                     height: auto;
                     display: flex;
                     flex-direction: row;
@@ -851,7 +853,7 @@
                 <div
                   class="rules-title"
                   style="
-                    font-size: 15px;
+                    font-size: 16px;
                     line-height: 145%;
                     padding: 0px 20px 8px;
                     color: rgb(255, 255, 255);
@@ -862,7 +864,7 @@
                 <div
                   class="rules-text-container"
                   style="
-                    font-size: 15px;
+                    font-size: 13px;
                     height: auto;
                     display: flex;
                     flex-direction: row;
@@ -893,7 +895,7 @@
                 <div
                   class="rules-text-container"
                   style="
-                    font-size: 15px;
+                    font-size: 13px;
                     height: auto;
                     display: flex;
                     flex-direction: row;
@@ -924,7 +926,7 @@
                 <div
                   class="rules-text-container"
                   style="
-                    font-size: 15px;
+                    font-size: 13px;
                     height: auto;
                     display: flex;
                     flex-direction: row;
@@ -955,7 +957,7 @@
                 <div
                   class="rules-text-container"
                   style="
-                    font-size: 15px;
+                    font-size: 13px;
                     height: auto;
                     display: flex;
                     flex-direction: row;
@@ -1005,7 +1007,7 @@
                 <div
                   class="rules-text-container"
                   style="
-                    font-size: 15px;
+                    font-size: 13px;
                     height: auto;
                     display: flex;
                     flex-direction: row;
@@ -1113,7 +1115,7 @@
                 <div
                   class="rules-text-container"
                   style="
-                    font-size: 15px;
+                    font-size: 13px;
                     height: auto;
                     display: flex;
                     flex-direction: row;
@@ -1174,7 +1176,7 @@
                 <div
                   class="rules-text-container"
                   style="
-                    font-size: 15px;
+                    font-size: 13px;
                     height: auto;
                     display: flex;
                     flex-direction: row;
@@ -1234,7 +1236,7 @@
                 <div
                   class="rules-text-container"
                   style="
-                    font-size: 15px;
+                    font-size: 13px;
                     height: auto;
                     display: flex;
                     flex-direction: row;
@@ -1294,7 +1296,7 @@
                 <div
                   class="rules-text-container"
                   style="
-                    font-size: 15px;
+                    font-size: 13px;
                     height: auto;
                     display: flex;
                     flex-direction: row;
@@ -1354,7 +1356,7 @@
                 <div
                   class="rules-text-container"
                   style="
-                    font-size: 15px;
+                    font-size: 13px;
                     height: auto;
                     display: flex;
                     flex-direction: row;
@@ -1474,7 +1476,7 @@
                 <div
                   class="rules-text-container"
                   style="
-                    font-size: 15px;
+                    font-size: 13px;
                     height: auto;
                     display: flex;
                     flex-direction: row;
@@ -1534,7 +1536,7 @@
                 <div
                   class="rules-text-container"
                   style="
-                    font-size: 15px;
+                    font-size: 13px;
                     height: auto;
                     display: flex;
                     flex-direction: row;
@@ -1628,7 +1630,7 @@
                 <div
                   class="rules-text-container"
                   style="
-                    font-size: 15px;
+                    font-size: 13px;
                     height: auto;
                     display: flex;
                     flex-direction: row;
@@ -1707,7 +1709,7 @@
                 <div
                   class="rules-text-container"
                   style="
-                    font-size: 15px;
+                    font-size: 13px;
                     height: auto;
                     display: flex;
                     flex-direction: row;
@@ -1767,7 +1769,7 @@
                 <div
                   class="rules-text-container"
                   style="
-                    font-size: 15px;
+                    font-size: 13px;
                     height: auto;
                     display: flex;
                     flex-direction: row;
@@ -1827,7 +1829,7 @@
                 <div
                   class="rules-text-container"
                   style="
-                    font-size: 15px;
+                    font-size: 13px;
                     height: auto;
                     display: flex;
                     flex-direction: row;
@@ -1887,7 +1889,7 @@
                 <div
                   class="rules-text-container"
                   style="
-                    font-size: 15px;
+                    font-size: 13px;
                     height: auto;
                     display: flex;
                     flex-direction: row;
@@ -1947,7 +1949,7 @@
                 <div
                   class="rules-text-container"
                   style="
-                    font-size: 15px;
+                    font-size: 13px;
                     height: auto;
                     display: flex;
                     flex-direction: row;
@@ -2038,7 +2040,7 @@
                 <div
                   class="rules-text-container"
                   style="
-                    font-size: 15px;
+                    font-size: 13px;
                     height: auto;
                     display: flex;
                     flex-direction: row;
@@ -2108,10 +2110,11 @@
                 <div
                   class="rules-title"
                   style="
-                    font-size: 15px;
+                    font-size: 16px;
                     line-height: 145%;
                     padding: 0px 20px 8px;
                     color: rgb(255, 255, 255);
+                    text-align: center;
                   "
                 >
                   {{ $t('text106') }}
@@ -2119,7 +2122,7 @@
                 <div
                   class="rules-text-container"
                   style="
-                    font-size: 15px;
+                    font-size: 13px;
                     height: auto;
                     display: flex;
                     flex-direction: row;
@@ -2141,7 +2144,7 @@
                 <div
                   class="rules-text-container"
                   style="
-                    font-size: 15px;
+                    font-size: 13px;
                     height: auto;
                     display: flex;
                     flex-direction: row;
@@ -2191,7 +2194,7 @@
           overflow: hidden;
           max-width: 70%;
           text-align: center;
-          font-size: 22px;
+          font-size: 20px;
           padding-top: 0px;
         "
       >

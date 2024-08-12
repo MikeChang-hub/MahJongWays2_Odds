@@ -28,7 +28,7 @@
                 <div
                   class="paytable"
                   style="
-                    font-size: 18px;
+                    font-size: 15px;
                     color: rgb(255, 255, 255);
                     font-weight: normal;
                     margin-bottom: 16px;
@@ -41,7 +41,7 @@
                 <div
                   id="symbol_payout_table"
                   class="inline_table"
-                  style="color: rgb(245, 172, 88); font-size: 13px; display: flex;justify-content: center;align-items: center"
+                  style="color: rgb(245, 172, 88); font-size: 12px; display: flex;justify-content: center;align-items: center"
                 >
                   <table style="border-collapse: collapse;width:fit-content;margin: auto">
                     <tbody>
@@ -101,7 +101,7 @@
                                 style="
                                   display: table-cell;
                                   width: fit-content;
-                                  font-size: 14px;
+                                  font-size: 12px;
                                   text-align: left;
                                   vertical-align: middle;
                                   direction: ltr;
@@ -930,7 +930,7 @@
                   id="symbol_payout_desc"
                   class="list"
                   style="
-                    font-size: 15px;
+                    font-size: 13px;
                     color: rgb(204, 204, 204);
                     padding: 0px;
                     margin: 20px 20px 20px 32px;
@@ -976,7 +976,7 @@
                 <div
                   class="paytable"
                   style="
-                    font-size: 18px;
+                    font-size: 16px;
                     color: rgb(255, 255, 255);
                     font-weight: normal;
                     margin-bottom: 16px;
@@ -1063,7 +1063,7 @@
                   id="gold_plate_desc"
                   class="list"
                   style="
-                    font-size: 15px;
+                    font-size: 13px;
                     color: rgb(204, 204, 204);
                     padding: 0px;
                     margin: 20px 20px 20px 32px;
@@ -1113,7 +1113,7 @@
                 <div
                   class="paytable"
                   style="
-                    font-size: 18px;
+                    font-size: 16px;
                     color: rgb(255, 255, 255);
                     font-weight: normal;
                     margin-bottom: 18px;
@@ -1168,7 +1168,7 @@
                   id="multiplier_desc"
                   class="list"
                   style="
-                    font-size: 15px;
+                    font-size: 13px;
                     color: rgb(204, 204, 204);
                     padding: 0px;
                     margin: 20px 20px 20px 32px;
@@ -1244,7 +1244,7 @@
                 <div
                   class="paytable"
                   style="
-                    font-size: 18px;
+                    font-size: 16px;
                     color: rgb(255, 255, 255);
                     font-weight: normal;
                     margin-bottom: 16px;
@@ -1366,7 +1366,7 @@
                   id="free_spin_desc1"
                   class="list"
                   style="
-                    font-size: 15px;
+                    font-size: 13px;
                     color: rgb(204, 204, 204);
                     padding: 0px;
                     margin: 20px 20px 20px 32px;
@@ -1433,7 +1433,7 @@
                   id="free_spin_desc2"
                   class="list"
                   style="
-                    font-size: 15px;
+                    font-size: 13px;
                     color: rgb(204, 204, 204);
                     padding: 0px;
                     margin: 20px 20px 20px 32px;
@@ -1487,7 +1487,7 @@
                 <div
                   class="paytable"
                   style="
-                    font-size: 18px;
+                    font-size: 16px;
                     color: rgb(255, 255, 255);
                     font-weight: normal;
                     margin-bottom: 16px;
@@ -1501,7 +1501,7 @@
                   id="ways_desc1"
                   class="list"
                   style="
-                    font-size: 15px;
+                    font-size: 13px;
                     color: rgb(204, 204, 204);
                     padding: 0px;
                     margin: 20px 20px 20px 32px;
@@ -1670,7 +1670,7 @@
                   id="ways_desc2"
                   class="list"
                   style="
-                    font-size: 15px;
+                    font-size: 13px;
                     color: rgb(204, 204, 204);
                     padding: 0px;
                     margin: 20px 20px 20px 32px;
@@ -1697,7 +1697,7 @@
                   class="text_box_div"
                   style="
                     color: rgb(255, 255, 255);
-                    font-size: 15px;
+                    font-size: 13px;
                     width: fit-content;
                     padding-top: 0px;
                     padding-bottom: 0px;
@@ -1710,7 +1710,7 @@
                   id="ways_desc3"
                   class="list"
                   style="
-                    font-size: 15px;
+                    font-size: 13px;
                     color: rgb(204, 204, 204);
                     padding: 0px;
                     margin: 20px 20px 20px 32px;
@@ -1747,7 +1747,7 @@
                             class="inline_table"
                             style="
                               color: rgb(255, 255, 255);
-                              font-size: 15px;
+                              font-size: 13px;
                               padding-bottom: 15px;
                               padding-top: 15px;
                             "
@@ -1849,7 +1849,7 @@
                             style="
                               display: table-cell;
                               color: rgb(255, 255, 255);
-                              font-size: 15px;
+                              font-size: 13px;
                               width: fit-content;
                               padding-top: 0px;
                               padding-bottom: 0px;
@@ -1871,7 +1871,7 @@
                   id="ways_desc4"
                   class="list"
                   style="
-                    font-size: 14px;
+                    font-size: 13px;
                     color: rgb(204, 204, 204);
                     padding: 0px;
                     margin: 20px 20px 20px 32px;
@@ -1942,7 +1942,7 @@
           overflow: hidden;
           max-width: 70%;
           text-align: center;
-          font-size: 22px;
+          font-size: 20px;
           padding-top: 0px;
         "
       >
