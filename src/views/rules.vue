@@ -1187,7 +1187,7 @@
                   "
                 >
                   <div
-                    class="game-rules-tinted-sprite game-rules-btn_minus"
+                    :class="['game-rules-tinted-sprite game-rules-btn_minus',locale==='zh_CN'?'game-rules-tinted-sprite-cn':'']"
                     style="
                       margin-right: 20px;
                       margin-left: 0px;
@@ -1247,7 +1247,7 @@
                   "
                 >
                   <div
-                    class="game-rules-tinted-sprite game-rules-btn_add"
+                    :class="['game-rules-tinted-sprite game-rules-btn_add',locale==='zh_CN'?'game-rules-tinted-sprite-cn':'']"
                     style="
                       margin-right: 20px;
                       margin-left: 0px;
@@ -1307,7 +1307,7 @@
                   "
                 >
                   <div
-                    class="game-rules-tinted-sprite game-rules-ic_wallet_open"
+                    :class="['game-rules-tinted-sprite game-rules-ic_wallet_open',locale==='zh_CN'?'game-rules-tinted-sprite-cn':'']"
                     style="
                       margin-right: 20px;
                       margin-left: 0px;
@@ -1367,7 +1367,7 @@
                   "
                 >
                   <div
-                    class="game-rules-tinted-sprite game-rules-ic_chip"
+                    :class="['game-rules-tinted-sprite game-rules-ic_chip',locale==='zh_CN'?'game-rules-tinted-sprite-cn':'']"
                     style="
                       margin-right: 20px;
                       margin-left: 0px;
@@ -1487,7 +1487,7 @@
                   "
                 >
                   <div
-                    class="game-rules-tinted-sprite game-rules-ic_win"
+                    :class="['game-rules-tinted-sprite game-rules-ic_win',locale==='zh_CN'?'game-rules-tinted-sprite-cn':'']"
                     style="
                       margin-right: 20px;
                       margin-left: 0px;
@@ -1547,7 +1547,7 @@
                   "
                 >
                   <div
-                    class="game-rules-tinted-sprite game-rules-center_autoplay"
+                    :class="['game-rules-tinted-sprite game-rules-center_autoplay',locale==='zh_CN'?'game-rules-tinted-sprite-cn':'']"
                     style="
                       margin-right: 20px;
                       margin-left: 0px;
@@ -1564,7 +1564,7 @@
                     "
                   ></div>
                   <div
-                    class="game-rules-tinted-sprite game-rules-txt_auto"
+                    :class="['game-rules-tinted-sprite game-rules-txt_auto',locale==='zh_CN'?'game-rules-tinted-sprite-cn':'']"
                     style="
                       margin-right: 20px;
                       margin-left: 0px;
@@ -1641,7 +1641,7 @@
                   "
                 >
                   <div
-                    class="game-rules-tinted-sprite game-rules-center_turbo_on"
+                    :class="['game-rules-tinted-sprite game-rules-center_turbo_on',locale==='zh_CN'?'game-rules-tinted-sprite-cn':'']"
                     style="
                       margin-right: 20px;
                       margin-left: 0px;
@@ -1658,7 +1658,7 @@
                     "
                   ></div>
                   <div
-                    class="game-rules-tinted-sprite game-rules-txt_turbo_on"
+                    :class="['game-rules-tinted-sprite game-rules-txt_turbo_on',locale==='zh_CN'?'game-rules-tinted-sprite-cn':'']"
                     style="
                       margin-right: 20px;
                       margin-left: 0px;
@@ -1780,7 +1780,7 @@
                   "
                 >
                   <div
-                    class="game-rules-tinted-sprite game-rules-ic_soundon"
+                    :class="['game-rules-tinted-sprite game-rules-ic_soundon',locale==='zh_CN'?'game-rules-tinted-sprite-cn':'']"
                     style="
                       margin-right: 20px;
                       margin-left: 0px;
@@ -1840,7 +1840,7 @@
                   "
                 >
                   <div
-                    class="game-rules-tinted-sprite game-rules-ic_paytable"
+                    :class="['game-rules-tinted-sprite game-rules-ic_paytable',locale==='zh_CN'?'game-rules-tinted-sprite-cn':'']"
                     style="
                       margin-right: 20px;
                       margin-left: 0px;
@@ -1900,7 +1900,7 @@
                   "
                 >
                   <div
-                    class="game-rules-tinted-sprite game-rules-ic_rule"
+                    :class="['game-rules-tinted-sprite game-rules-ic_rule',locale==='zh_CN'?'game-rules-tinted-sprite-cn':'']"
                     style="
                       margin-right: 20px;
                       margin-left: 0px;
@@ -1960,7 +1960,7 @@
                   "
                 >
                   <div
-                    class="game-rules-tinted-sprite game-rules-ic_hist"
+                    :class="['game-rules-tinted-sprite game-rules-ic_hist',locale==='zh_CN'?'game-rules-tinted-sprite-cn':'']"
                     style="
                       margin-right: 20px;
                       margin-left: 0px;
@@ -2267,6 +2267,7 @@ export default defineComponent({
       closeWebViewFun()
     }
     return {
+      locale,
       localeUtil,
       change_lang,
       closeWebView
@@ -2335,6 +2336,9 @@ li {
   display: inline-block;
   overflow: hidden;
 }
+.game-rules-tinted-sprite-cn {
+  background-image: url('../assets/img/img.png');
+}
 .game-rules-sprite {
   overflow: hidden;
   display: inline-block;
@@ -2342,5 +2346,9 @@ li {
 
   background-repeat: no-repeat;
   background-size: 422px 502px;
+}
+.game-rules-txt_turbo_on,
+.game-rules-center_autoplay{
+  position: absolute;
 }
 </style>
