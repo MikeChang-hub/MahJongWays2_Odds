@@ -2018,7 +2018,7 @@
                           list-style-type: square;
                         "
                       >
-                        <li>
+                        <li style='display: flex;align-items: center'>
                           {{ $t('text102') }}
                           <div
                             class="game-rules-sprite game-rules-ic_nav_calender"
